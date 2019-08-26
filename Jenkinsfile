@@ -29,5 +29,9 @@
        sh 'sleep 10'
      }
    }
-
-
+   node {
+      sh 'Hello World'
+   }
+         
+      
+   
