@@ -31,7 +31,7 @@
    }
    stage('Hello') {  
       node {
-      sh 'Hello World'
+      sh 'echo "Hello World"'
      }
    }
          
